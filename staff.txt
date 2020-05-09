@@ -1,0 +1,5 @@
+staff= [ 
+ {"Username": "Adeolami" , "Password: "Olami",   "Email" :"owonikoko@gmail.com" ,  "Fullname" :  "Adeola Olarewaju" },
+ { "Username" : "Iloriola" ,  "Password" : "Olawuyi ,
+ "Email" : "Ilori4@yahoo.com" ,  "Fullname" : "Ilori   Olawuyi" }
+]
